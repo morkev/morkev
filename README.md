@@ -1,7 +1,7 @@
 ```python
         .yhmNmdhyy,                           ////++                  andrew@grant
     .dmmmNmNNNNNNNmmdhy.                 :/+/:.`....-:////            ——————
-   ,hmNNNNNNNNNNNNNNNNNNddh.          /-....`.```````````..-:/        OS: "Windows 10, iOS"
+   ,hmNNNNNNNNNNNNNNNNNNddh.          /-....`.```````````..-:/        OS: "Linux, macOS, Windows"
   hNNNNNNMMMNNNNNNNNNNNMMMNNNmn      :.```````````````````````--:     Uptime: "20 years, 2 months, 15 days"
 'hNNNNNNmmmmmdddddhhdhhddmNMMMNN    .```````   ```````````   `````:   Host: "Rochester Institute of Technology (RIT)"
  dNNNNmso++/:///++oso+oossydNMMNy   :``````.....-----::-::--.`   ``   Kernel: "College of Electrical and Computer Engineering Technology"
