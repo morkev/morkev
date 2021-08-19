@@ -1,27 +1,20 @@
 ```python
-        .yhmNmdhyy,                           ////++                  andrew@grant
-    .dmmmNmNNNNNNNmmdhy.                 :/+/:.`....-:////            ——————
-   ,hmNNNNNNNNNNNNNNNNNNddh.          /-....`.```````````..-:/        OS: "Linux, macOS, Windows"
-  hNNNNNNMMMNNNNNNNNNNNMMMNNNmn      :.```````````````````````--:     Uptime: "20 years, 2 months, 15 days"
-'hNNNNNNmmmmmdddddhhdhhddmNMMMNN    .```````   ```````````   `````:   Host: "Rochester Institute of Technology (RIT)"
- dNNNNmso++/:///++oso+oossydNMMNy   :``````.....-----::-::--.`   ``   Kernel: "College of Electrical and Computer Engineering Technology"
- hNNNd/........----:/+oooossmMMNd   -````.+ossyhyyysso+osoo++/-`  `   IDE: "Intellij IDEA 2020.3, PyCharm 2020.2"
- 'hNN+.-+ssyyso:--/oyhhdhddhhMNNh   :```-ymmmmmmmmddddhysoooo++.  `-  Languages.CS: "Java, Python, JS, HTML, CSS"
-  mNNshosooyddhyhydmmmddhhdmdNNN     ```smds++//+ohddyo/::-:--:: ``:  Languages.RL: "English, Spanish"
-  ddmoh--/+syysso/smddddhhyhhdmd     .``+:o+oo/--:/:/-...--::-.-```   Proficiencies: "Photoshop, Illustrator, Word, Excel"
-  'so::---:/+++/../ydhhyyssssdh      --. :ddys+//++oy+.----::/::-.-   Certifications: "Microsoft Word 2013, WISE Financial Literacy"
-   o//`````...---./yyyyssooosd        +ohhdddhysssymmy/-:://++++-:    Hobbies.Software:
-   yss-````..-////ohdysoo+oohh        oyyNNNNNmmmdddmy////++ooo+-      - "Minecraft Modding (Java)"
-   hdmo:.`.++://++oyhhdhyosym:        /++dNNNNmmdyyyyo:-/+oosoo::      - "iOS Jailbreaking (Logos, Objective-C)"
-    hmh+/..--..-/++osyyysyddm         :-.ohmNmsshyysso/::-:/o+/..     Hobbies.Hardware: "Overclocking, Undervolting"
-    'hdo+-`....:+ooossysydm:           :.:symmddmmdysso+///+/--.      
-      o.:-....-//+syyyyyhd'             :-osdNmmmmhsooo++/+/-..       Contact:
-     o-```.::ossosdddhddh               /omhdmmmmdyys+/////:--        ——————
-    d:``````./osyhdmmdhyy              /odNNNmhho++o+---:--:          Email: "andrew.grant@mail.rit.edu"
-     d/.```````.-/osyyysssy.          :-hNNNNNNmyo+/:-..-:            Discord: "AndrewIsntCool#5829"
-      my:```````.-/osoooosssy         `.-ymNNNNNNNmdyo+///+++         
-        my:.....-//+oo+++oosm            ./hNNNNNNNmdyo+oooo+++       
-           y/------///:::/sm              `./hmmmmmdyysoosssoo+.      
-             ds/-..-..--od                    ``-+ydmmdmmddo-         
-               mh+--:ohm                         `.:sddho:.           
+
+           `.-``    ``-.`                 Kevin Mora         
+       `:.+-          -+.:`               ——————
+     -` .s-            -s. `-             OS: "Windows, macOS & Linux"
+   `.-/+:/-            -/:+/-.`           Uptime: "20 years, 2 months, 15 days"
+       .sh/`          `/ho.               College: "Salt Lake Community College"
+ -`   `-/s/-:.      .:-/s/-`   `-         Transfer: "University of Utah"
+`-/+--oo+-/+o+--::--+o+/-+oo--+/-`        IDE: "Eclipse IDE, IntelliJ IDEA, PyCharm CE, VS Code"
+` .+:+s+:-:ommy+::+ymmo:-:+s+:+. `        Languages.CS: "Java, Python, JS, HTML, CSS, SQL, Processing"
+.:/+..  `..`:///--///:`..` `..+/:.        Languages.RL: "English & Spanish"
+./.         .:-:oo:-:.         ./.        Proficiencies: "Blender 3D, Houdini, Photoshop, Girih, Tableau, Excel, P5.js"
+`-           `.ommo.`           -`        Certifications: "Microsoft Office 2013, Summer Geometry Institute 2020"
+ .           `-/yy/-`           .         Hobbies():
+             -::::::-                     - "StyleGAN2-ADA, KaoKore, DALL-E, CLIP & VQGAN"
+   ``      .-ods::sdo-.      ``           - "Computational Theory"
+    `.--/:+o://````//:o+:/--.`            - "Polyhedra Animations"
+       .`/``:o`    `o:``/`.               - "SQL Injection"
+           `---`  `---`                          
 ```
