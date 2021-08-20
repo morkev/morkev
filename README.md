@@ -10,7 +10,7 @@
 ` .+:+s+:-:ommy+::+ymmo:-:+s+:+. `        Languages.CS: "Java, Python, JS, HTML, CSS, SQL, Processing"
 .:/+..  `..`:///--///:`..` `..+/:.        Languages.RL: "English & Spanish"
 ./.         .:-:oo:-:.         ./.        Proficiencies: "Blender 3D, Houdini, Photoshop, Tableau, Excel"
-`-           `.ommo.`           -`        Certifications: "Microsoft Office 2013, Summer Geometry Institute 20"
+`-           `.ommo.`           -`        Certifications: "Microsoft Office 2013, Summer Geometry Institute"
  .           `-/yy/-`           .         Hobbies():
              -::::::-                      - "StyleGAN2-ADA, KaoKore, DALL-E, CLIP & VQGAN"
    ``      .-6ds::s-9o.      ``            - "Computational Theory"
