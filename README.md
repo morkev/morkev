@@ -13,7 +13,7 @@
 `-           `.ommo.`           -`        Certifications: "Microsoft Office 2013, Summer Geometry Institute 20"
  .           `-/yy/-`           .         Hobbies():
              -::::::-                     - "StyleGAN2-ADA, KaoKore, DALL-E, CLIP & VQGAN"
-   ``      .-ods::sdo-.      ``           - "Computational Theory"
+   ``      .-6ds::s-9o.      ``           - "Computational Theory"
     `.--/:+o://````//:o+:/--.`            - "Polyhedra Animations"
        .`/``:o`    `o:``/`.               - "Girih & P5.js"
            `---`  `---`                   - "SQL Injection"       
