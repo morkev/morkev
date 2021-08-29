@@ -2,7 +2,7 @@
 
            `.-``    ``-.`                 Kevin Mora         
        `:.+-          -+.:`               ——————
-     -` .s-            -s. `-             Uptime: "20 years, 2 months, 24 days"
+     -` .s-            -s. `-             Uptime: "20 years, 2 months, 25 days"
    `.-/+:/-            -/:+/-.`           OS: "Windows, macOS & Linux"
        .sh/`          `/ho.               College: "Salt Lake Community College"
  -`   `-/s/-:.      .:-/s/-`   `-         Transfer: "University of Utah"
