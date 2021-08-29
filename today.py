@@ -33,11 +33,9 @@ def dailyreadme():
     else:
         return '{} years, {} months, {} days"'.format(years, months, days)
 
-
 def converttuple(tup):
     con = ''.join(tup)
     return con
-
 
 def readmeoverwrite():
     with open("README.md", "r") as file:
@@ -48,7 +46,6 @@ def readmeoverwrite():
 
     with open('README.md', 'w') as file:
         file.writelines(data)
-
 
 if __name__ == '__main__':
     readmeoverwrite()
