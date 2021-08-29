@@ -16,12 +16,16 @@
    ``      .-6ds::s-9o.      ``            - "Computational Theory"
     `.--/:+o://````//:o+:/--.`             - "Polyhedra Animations"
        .`/``:o`    `o:``/`.                - "SQL Injection"
-           `---`  `---`                    - "Girih & P5.js"       
+           `---`  `---`                    - "Girih & p5.js"       
 ```
-[![morkev's GitHub stats](https://github-readme-stats.vercel.app/api?username=morkev)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morkev&layout=compact&show_icons=true&theme=radical)](https://github.com/morkev/github-readme-stats)
 
 <a href="https://www.buymeacoffee.com/morkev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
 <!---
+1: Top Languages
+3: Coffee
+---
 Cooking some very yummy code
 --->
