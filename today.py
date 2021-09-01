@@ -12,7 +12,6 @@ years = diff.years
 months = diff.months
 days = diff.days
 
-
 def dailyreadme():
     if years > 100:
         return 'null. I am dead"'
