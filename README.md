@@ -1,6 +1,6 @@
 ```python
 
-           `.-``    ``-.`                 Kevin Mora         
+           `.-``    ``-.`                 sci.kevinmora@gmail.com         
        `:.+-          -+.:`               ——————
      -` .s-            -s. `-             Uptime: "20 years, 2 months, 27 days"
    `.-/+:/-            -/:+/-.`           OS: "Windows, macOS & Linux"
