@@ -1,5 +1,4 @@
 from datetime import datetime
-
 from dateutil import relativedelta
 
 date1 = datetime(2001, 6, 4)
@@ -14,7 +13,7 @@ days = diff.days
 
 def dailyreadme():
     if years > 100:
-        return 'null. I am dead"'
+        return 'null. I am dead. Go out there and enjoy life."'
     elif days == 1:
         if months == 1:
             return '{} years, {} month, {} day"'.format(years, months, days)
