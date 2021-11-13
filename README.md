@@ -9,8 +9,8 @@
 `-/+--oo+-/+o+--::--+o+/-+oo--+/-`        Languages.RL: "English & Spanish"
 ` .+:+s+:-:ommy+::+ymmo:-:+s+:+. `        Languages.CS: "Java, Python, JS, HTML, CSS, SQL, Processing"
 .:/+..  `..`:///--///:`..` `..+/:.        IDE: "Eclipse IDE, IntelliJ IDEA, PyCharm CE, VS Code"
-./.         .:-:oo:-:.         ./.        Proficiencies: "Blender 3D, Houdini, Tableau, Excel, Unity"
-`-           `.ommo.`           -`        Certifications: "Summer Geometry Institute, Office 365, G Suite"
+./.         .:-:oo:-:.         ./.        Proficiencies(x): "Blender 3D, Houdini, Tableau, LaTeX, Unity, Office 365"
+`-           `.ommo.`           -`        Proficiencies(y): "Summer Geometry Institute, Manim, Matplotlib"
  .           `-/yy/-`           .         Hobbies():
              -::::::-                      - "StyleGAN2-ADA, KaoKore, DALL-E, CLIP & VQGAN"
    ``      .-6ds::s-9o.      ``            - "Polyhedra Animations, Girih & p5.js"
