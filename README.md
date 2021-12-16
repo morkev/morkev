@@ -19,7 +19,7 @@
            `---`  `---`                    + "Latté, nature, stargazing, reading, puppies"       
 ```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morkev&layout=compact&show_icons=true&theme=onedark&hide_border=true&langs_count=6)](https://github.com/morkev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morkev&layout=compact&show_icons=true&theme=ayu-mirage&hide_border=true&langs_count=6)](https://github.com/morkev/github-readme-stats)
 
 <!-- Best programming language themes from Vercel's API:
 radical, dark, ayu-mirage, nord,blue-green, vue-dark, prussian, gruvbox, gruvbox_light, onedark
