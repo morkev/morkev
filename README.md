@@ -3,20 +3,20 @@
            `.-``    ``-.`                 sci.kevinmora@gmail.com         
        `:.+-          -+.:`               ——————
      -` .s-            -s. `-             Uptime: "20 years, 6 months, 12 days"
-   `.-/+:/-            -/:+/-.`           OS: "Windows, macOS & Linux"
+   `.-/+:/-            -/:+/-.`           OS: "macOS, Linux & Windows"
        .sh/`          `/ho.               College: "Salt Lake Community College"
  -`   `-/s/-:.      .:-/s/-`   `-         Transfer: "University of Utah"
 `-/+--oo+-/+o+--::--+o+/-+oo--+/-`        Languages.RL: "English & Spanish"
-` .+:+s+:-:ommy+::+ymmo:-:+s+:+. `        Languages.CS: "Java, Python, JS, HTML, CSS, SQL, Processing"
-.:/+..  `..`:///--///:`..` `..+/:.        IDE: "Eclipse IDE, IntelliJ IDEA, VS Code"
-./.         .:-:oo:-:.         ./.        Proficiencies(x): "Blender 3D, Houdini, Tableau, LaTeX, Unity, Office"
+` .+:+s+:-:ommy+::+ymmo:-:+s+:+. `        Languages.CS: "Java, Python, SQL, JS, HTML, CSS, Processing"
+.:/+..  `..`:///--///:`..` `..+/:.        Currently Learning: "Assembly, C/C++ and GLSL"
+./.         .:-:oo:-:.         ./.        Proficiencies(x): "Blender 3D, Houdini, Tableau, LaTeX, Unity"
 `-           `.ommo.`           -`        Proficiencies(y): "Summer Geometry Institute, Manim, Matplotlib"
  .           `-/yy/-`           .         Hobbies():
              -::::::-                      - "StyleGAN2-ADA, KaoKore, DALL-E, CLIP & VQGAN"
-   ``      .-6ds::s-9o.      ``            - "Polyhedra Animations, Girih & p5.js"
+   ``      .-6ds::s-9o.      ``            - "Polyhedra Animation with Girih and p5.js"
     `.--/:+o://````//:o+:/--.`             - "Theory of Computation"
-       .`/``:o`    `o:``/`.                - "Interested in Computer Graphics"
-           `---`  `---`                    - "Latté, nature, stargazing, reading, puppies"       
+       .`/``:o`    `o:``/`.                - "Love graph theory and computer simulations"
+           `---`  `---`                    + "Latté, nature, stargazing, reading, puppies"       
 ```
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morkev&layout=compact&show_icons=true&theme=dark&hide_border=true)](https://github.com/morkev/github-readme-stats)
