@@ -19,9 +19,11 @@
            `---`  `---`                    + "Latté, nature, stargazing, reading, puppies"       
 ```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morkev&layout=compact&show_icons=true&theme=dark&hide_border=true&langs_count=6)](https://github.com/morkev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morkev&layout=compact&show_icons=true&theme=prussian&hide_border=true&langs_count=6)](https://github.com/morkev/github-readme-stats)
 
-<!-- radical, dark -->
+<!-- Best programming language themes from Vercel's API:
+radical, dark, ayu-mirage, nord,blue-green, vue-dark, prussian, gruvbox, gruvbox_light 
+-->
 
 <!--
 <a href="https://www.buymeacoffee.com/morkev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a> 
