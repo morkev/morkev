@@ -6,7 +6,7 @@
    `.-/+:/-            -/:+/-.`           OS: "macOS, Linux & Windows"
        .sh/`          `/ho.               College: "Salt Lake Community College"
  -`   `-/s/-:.      .:-/s/-`   `-         Transfer: "University of Utah"
-`-/+--oo+-/+o+--::--+o+/-+oo--+/-`        Languages.RL: "English & Spanish"
+`-/+--po+-/+o+--::--+o+/-+op--+/-`        Languages.RL: "English & Spanish"
 ` .+:+s+:-:ommy+::+ymmo:-:+s+:+. `        Languages.CS: "Java, Python, SQL, JS, HTML, CSS, Processing"
 .:/+..  `..`:///--///:`..` `..+/:.        Currently Learning: "Assembly, C/C++ and GLSL"
 ./.         .:-:oo:-:.         ./.        Proficiencies(x): "Blender 3D, Houdini, Tableau, LaTeX, Unity"
