@@ -8,8 +8,8 @@
  -`   `-/s/-:.      .:-/s/-`   `-         Transfer: "University of Utah"
 `-/+--oo+-/+o+--::--+o+/-+oo--+/-`        Languages.RL: "English & Spanish"
 ` .+:+s+:-:ommy+::+ymmo:-:+s+:+. `        Languages.CS: "Java, Python, JS, HTML, CSS, SQL, Processing"
-.:/+..  `..`:///--///:`..` `..+/:.        IDE: "Eclipse IDE, IntelliJ IDEA, PyCharm CE, VS Code"
-./.         .:-:oo:-:.         ./.        Proficiencies(x): "Blender 3D, Houdini, Tableau, LaTeX, Unity, Office 365"
+.:/+..  `..`:///--///:`..` `..+/:.        IDE: "Eclipse IDE, IntelliJ IDEA, VS Code"
+./.         .:-:oo:-:.         ./.        Proficiencies(x): "Blender 3D, Houdini, Tableau, LaTeX, Unity, Office"
 `-           `.ommo.`           -`        Proficiencies(y): "Summer Geometry Institute, Manim, Matplotlib"
  .           `-/yy/-`           .         Hobbies():
              -::::::-                      - "StyleGAN2-ADA, KaoKore, DALL-E, CLIP & VQGAN"
