@@ -23,7 +23,10 @@
 
 <!-- Best programming language themes from Vercel's API:
 radical, dark, ayu-mirage, nord,blue-green, vue-dark, prussian, gruvbox, 
-gruvbox_light, onedark, darcula, gotham, calm, material-palenight
+gruvbox_light, onedark, darcula, gotham, calm, material-palenight, slateorange
+
+Documentation
+https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 -->
 
 <!--
