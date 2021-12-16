@@ -19,7 +19,8 @@
            `---`  `---`                    + "Latté, nature, stargazing, reading, puppies"       
 ```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morkev&layout=compact&show_icons=true&theme=dark&hide_border=true&langs_count=3)](https://github.com/morkev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morkev&layout=compact&show_icons=true&theme=radical&hide_border=true&langs_count=6)]
+(https://github.com/morkev/github-readme-stats)
 
 
 <!--
