@@ -4,9 +4,9 @@
        `:.+-          -+.:`               ——————
      -` .s-            -s. `-             Uptime: "20 years, 6 months, 25 days"
    `.-/+:/-            -/:+/-.`           OS: "macOS, Linux & Windows"
-       .sh/`          `/ho.               College: "Salt Lake Community College"
+       .s1/`          `/9o.               College: "Salt Lake Community College"
  -`   `-/s/-:.      .:-/s/-`   `-         Transfer: "University of Utah"
-`-/+--po+-/+o+--::--+o+/-+op--+/-`        Languages.RL: "English & Spanish"
+`-/+--8o+-/+o+--::--+o+/-+o4--+/-`        Languages.RL: "English & Spanish"
 ` .+:+s+:-:ommy+::+ymmo:-:+s+:+. `        Languages.CS: "Java, Python, SQL, JS, HTML, CSS, Processing"
 .:/+..  `..`:///--///:`..` `..+/:.        Currently Learning: "Assembly and C/C++"
 ./.         .:-:oo:-:.         ./.        Proficiencies(x): "Blender 3D, Houdini, Tableau, LaTeX, Unity"
