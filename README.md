@@ -9,7 +9,7 @@
 `-/+--8o+-/+o+--::--+o+/-+o4--+/-`        Languages.RL: "English & Spanish"
 ` .+:+s+:-:ommy+::+ymmo:-:+s+:+. `        Languages.CS: "Java, Python, SQL, JS, HTML, CSS, Processing"
 .:/+..  `..`:///--///:`..` `..+/:.        Currently Learning: "Assembly and C/C++"
-./.         .:-:oo:-:.         ./.        Proficiencies(x): "Blender 3D, Houdini, Tableau, LaTeX, Unity"
+./.         .:-:oo:-:.         ./.        Proficiencies(x): "Blender 3D, Houdini, Tableau, TeX, Unity"
 `-           `.ommo.`           -`        Proficiencies(y): "Summer Geometry Institute, Manim, Matplotlib"
  .           `-/yy/-`           .         Hobbies():
              -::::::-                      - "StyleGAN2-ADA, KaoKore, DALL-E, CLIP & VQGAN"
