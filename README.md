@@ -3,18 +3,18 @@
            `.-``    ``-.`                 sci.kevinmora@gmail.com         
        `:.+-          -+.:`               ——————
      -` .s-            -s. `-             Uptime: "20 years, 8 months, 26 days"
-   `.-/+:/-            -/:+/-.`           OS: "macOS, Linux & Windows"
+   `.-/+:/-            -/:+/-.`           OS: "Linux, macOS & Windows"
        .s1/`          `/9o.               College: "Salt Lake Community College"
  -`   `-/s/-:.      .:-/s/-`   `-         Transfer: "University of Utah"
 `-/+--8o+-/+o+--::--+o+/-+o4--+/-`        Languages.RL: "English & Spanish"
-` .+:+s+:-:ommy+::+ymmo:-:+s+:+. `        Languages.CS: "Java, Python, SQL, JS, HTML, CSS, Processing"
-.:/+..  `..`:///--///:`..` `..+/:.        Currently Learning: "Assembly, PHP and C/C++"
+` .+:+s+:-:ommy+::+ymmo:-:+s+:+. `        Languages.CS: "Java, Python, SQL, JS, PHP, HTML, CSS, Processing"
+.:/+..  `..`:///--///:`..` `..+/:.        Currently Learning: "Assembly, TypeScript and C/C++"
 ./.         .:-:oo:-:.         ./.        Proficiencies(x): "Blender 3D, Houdini, Tableau, TeX, Unity"
-`-           `.ommo.`           -`        Proficiencies(y): "Summer Geometry Institute, Manim, Matplotlib"
+`-           `.ommo.`           -`        Proficiencies(y): "Manim, Matplotlib, G-Colab, p5.js"
  .           `-/yy/-`           .         Hobbies():
              -::::::-                      - "StyleGAN2-ADA, KaoKore, DALL-E, CLIP & VQGAN"
-   ``      .-6ds::s-9o.      ``            - "Polyhedra Animation with Girih and p5.js"
-    `.--/:+o://````//:o+:/--.`             - "Theory of Computation"
+   ``      .-6ds::s-9o.      ``            - "Animation of polyhedra and rendering"
+    `.--/:+o://````//:o+:/--.`             - "Computer theory"
        .`/``:o`    `o:``/`.                - "Love graph theory and computer simulations"
            `---`  `---`                    + "Latté, nature, stargazing, reading, puppies"       
 ```
