@@ -14,7 +14,7 @@
  .           `-/yy/-`           .         Hobbies():
              -::::::-                      - "StyleGAN2-ADA, KaoKore, DALL-E, CLIP & VQGAN"
    ``      .-6ds::s-9o.      ``            - "Animation of polyhedra and rendering"
-    `.--/:+o://````//:o+:/--.`             - "Computer theory"
+    `.--/:+o://````//:o+:/--.`             - "Algorithms, data structures / patterns"
        .`/``:o`    `o:``/`.                - "Love graph theory and computer simulations"
            `---`  `---`                    + "Latté, nature, stargazing, reading, puppies"       
 ```
