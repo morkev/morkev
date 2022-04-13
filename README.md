@@ -13,13 +13,13 @@
 `-           `.ommo.`           -`        Proficiencies(y): "Manim, Matplotlib, G-Colab, p5.js"
  .           `-/yy/-`           .         Hobbies():
              -::::::-                      - "StyleGAN2-ADA, KaoKore, DALL-E, CLIP & VQGAN"
-   ``      .-6ds::s-9o.      ``            - "Animation of polyhedra and rendering"
+   ``      .-6ds::s-9o.      ``            - "I like to render and code polyhedrons"
     `.--/:+o://````//:o+:/--.`             - "Algorithms, data structures / patterns"
        .`/``:o`    `o:``/`.                - "Love graph theory and computer simulations"
-           `---`  `---`                    + "Latté, nature, stargazing, reading, puppies"       
+           `---`  `---`                    + "hireOpen(true)"       
 ```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morkev&layout=compact&show_icons=true&theme=ayu-mirage&hide_border=true&langs_count=8)](https://github.com/morkev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morkev&layout=compact&show_icons=true&theme=prussian&hide_border=true&langs_count=8)](https://github.com/morkev/github-readme-stats)
 
 <!-- Best programming language themes from Vercel's API:
 radical, dark, ayu-mirage, nord,blue-green, vue-dark, prussian, gruvbox, 
