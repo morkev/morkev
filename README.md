@@ -8,7 +8,7 @@
  -`   `-/s/-:.      .:-/s/-`   `-         Transfer: "University of Utah"
 `-/+--8o+-/+o+--::--+o+/-+o4--+/-`        Languages.RL: "English & Spanish"
 ` .+:+s+:-:ommy+::+ymmo:-:+s+:+. `        Languages.CS: "Java, C++, Python, SQL, JS, PHP, HTML, CSS, Processing"
-.:/+..  `..`:///--///:`..` `..+/:.        Currently Learning: "TypeScript, C and Assembly"
+.:/+..  `..`:///--///:`..` `..+/:.        Currently Learning: "TypeScript, C, R and Assembly"
 ./.         .:-:oo:-:.         ./.        Proficiencies(x): "Blender 3D, Houdini, Tableau, TeX, Unity"
 `-           `.ommo.`           -`        Proficiencies(y): "Manim, Matplotlib, G-Colab, p5.js"
  .           `-/yy/-`           .         Hobbies():
