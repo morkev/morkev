@@ -13,7 +13,7 @@
 `-           `.ommo.`           -`        Proficiencies(y): "Manim, Matplotlib, G-Colab, p5.js"
  .           `-/yy/-`           .         Hobbies():
              -::::::-                      - "StyleGAN2-ADA, KaoKore, DALL-E, CLIP & VQGAN"
-   ``      .-6ds::s-9o.      ``            - "I like to play with rendering and data compression"
+   ``      .-6ds::s-9o.      ``            - "Mainly care about Java, C, R, C++, Rust and Python"
     `.--/:+o://````//:o+:/--.`             - "Currently learning Seaborn and Laravel"
        .`/``:o`    `o:``/`.                - "Haven't had time to build a VR mini-game"
            `---`  `---`                    + "Love graph theory and computer simulations"       
