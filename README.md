@@ -7,16 +7,16 @@
        .s1/`          `/9o.               College: "Salt Lake Community College"
  -`   `-/s/-:.      .:-/s/-`   `-         Transfer: "University of Utah"
 `-/+--8o+-/+o+--::--+o+/-+o4--+/-`        Languages.RL: "English & Spanish"
-` .+:+s+:-:ommy+::+ymmo:-:+s+:+. `        Languages.CS: "Java, C++, Python, SQL, JS, PHP, HTML, CSS, Processing"
-.:/+..  `..`:///--///:`..` `..+/:.        Currently Learning: "Rust, C, R and Assembly"
-./.         .:-:oo:-:.         ./.        Proficiencies(x): "Blender 3D, Houdini, Tableau, TeX, Unity"
-`-           `.ommo.`           -`        Proficiencies(y): "Manim, Matplotlib, G-Colab, p5.js"
- .           `-/yy/-`           .         Hobbies():
-             -::::::-                      - "StyleGAN2-ADA, KaoKore, DALL-E, CLIP & VQGAN"
-   ``      .-6ds::s-9o.      ``            - "Mainly care about Java, C, R, C++, Rust and Python"
-    `.--/:+o://````//:o+:/--.`             - "Currently learning Seaborn and Laravel"
-       .`/``:o`    `o:``/`.                - "Haven't had time to build a VR mini-game"
-           `---`  `---`                    + "Love graph theory and computer simulations"       
+` .+:+s+:-:ommy+::+ymmo:-:+s+:+. `        Languages.CS(1): "Java, C++, Python, SQL/MySQL, JavaScript, PHP"
+.:/+..  `..`:///--///:`..` `..+/:.        Languages.CS(2): "HTML, CSS, Processing, TeX, Assembly"
+./.         .:-:oo:-:.         ./.        Currently Learning: "Rust, C, and R"
+`-           `.ommo.`           -`        Proficiencies(x): "Manim, Matplotlib, JExcel, G-Colab, Plotly"
+ .           `-/yy/-`           .         Proficiencies(y): "Houdini, Blender, p5.js, Tableau, Pygal..."
+             -::::::-                     Hobbies():
+   ``      .-6ds::s-9o.      ``            - "StyleGAN2-ADA, KaoKore, DALL-E, CLIP, and VQGAN"
+    `.--/:+o://````//:o+:/--.`             - "Other things I am learning: Seaborn, Laravel, Selenium, and Log5j"
+       .`/``:o`    `o:``/`.               Interested():
+           `---`  `---`                    + "Scientific computing, visualization, graphics, and data compression"       
 ```
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morkev&layout=compact&show_icons=true&theme=ayu-mirage&hide_border=true&langs_count=8)](https://github.com/morkev/github-readme-stats)
