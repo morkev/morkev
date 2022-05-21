@@ -13,8 +13,8 @@
 `-           `.ommo.`           -`        Proficiencies(x): "Manim, Matplotlib, JExcel, G-Colab, Plotly"
  .           `-/yy/-`           .         Proficiencies(y): "Houdini, Blender, p5.js, Tableau, Pygal..."
              -::::::-                     Hobbies():
-   ``      .-6ds::s-9o.      ``            - "StyleGAN2-ADA, KaoKore, DALL-E, CLIP, and VQGAN"
-    `.--/:+o://````//:o+:/--.`             - "Other things I am learning: Seaborn, Laravel, Selenium, and Log5j"
+   ``      .-6ds::s-9o.      ``            - "Skiing, hiking, skydiving, kayaking, reading, stargazing"
+    `.--/:+o://````//:o+:/--.`             - "programming trivial stuff, gaming, eating out..."
        .`/``:o`    `o:``/`.               Interested():
            `---`  `---`                    + "Scientific computing, visualization, graphics, and data compression"       
 ```
