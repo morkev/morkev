@@ -10,8 +10,8 @@
 ` .+:+s+:-:ommy+::+ymmo:-:+s+:+. `        Languages.CS(x): "Java, C++, Python, R, SQL/MySQL, JavaScript, C"
 .:/+..  `..`:///--///:`..` `..+/:.        Languages.CS(y): "PHP, HTML, CSS, Processing, TeX, Assembly"
 ./.         .:-:oo:-:.         ./.        Currently Learning: "Selenium, Tomcat, Spring, and Rust."
-`-           `.ommo.`           -`        Proficiencies(x): "Manim, Matplotlib, JExcel, G-Colab, Plotly"
- .           `-/yy/-`           .         Proficiencies(y): "Houdini, Blender, p5.js, Tableau, Pygal, Log4j"
+`-           `.ommo.`           -`        Proficiencies(x): "Matplotlib, JExcel, G-Colab, Plotly, Houdini"
+ .           `-/yy/-`           .         Proficiencies(y): "Manim, Blender, p5.js, Tableau, Pygal, Log4j"
              -::::::-                     Proficiencies(z): "MariaDB, phpMyAdmin, NumPy, pandas, ggplot2"
    ``      .-6ds::s-9o.      ``           Hobbies():
     `.--/:+o://````//:o+:/--.`             - "Skiing, hiking, skydiving, kayaking, reading, stargazing"
