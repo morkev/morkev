@@ -16,7 +16,7 @@
    ``      .-6ds::s-9o.      ``           Hobbies():
     `.--/:+o://````//:o+:/--.`             - "Skiing, hiking, skydiving, kayaking, reading, stargazing"
        .`/``:o`    `o:``/`.               Interested():
-           `---`  `---`                    + "Scientific computing, visualization, graphics, and data compression"       
+           `---`  `---`                    + "Scientific computing, visualization, and data compression"       
 ```
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morkev&layout=compact&show_icons=true&theme=ayu-mirage&hide_border=true&langs_count=8)](https://github.com/morkev/github-readme-stats)
