@@ -14,7 +14,7 @@
  .           `-/yy/-`           .         Proficiencies(y): "Manim, Blender, p5.js, Tableau, Pygal, Log4j"
              -::::::-                     Proficiencies(z): "MariaDB, phpMyAdmin, NumPy, pandas, ggplot2"
    ``      .-6ds::s-9o.      ``           Hobbies():
-    `.--/:+o://````//:o+:/--.`             - "Skiing, hiking, skydiving, kayaking, reading, stargazing"
+    `.--/:+o://````//:o+:/--.`             - "Skiing, hiking, piano, kayaking, reading, stargazing"
        .`/``:o`    `o:``/`.               Interested():
            `---`  `---`                    + "Scientific computing, visualization, and data compression"       
 ```
