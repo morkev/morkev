@@ -7,14 +7,14 @@
        .s1/`          `/9o.               College: "Salt Lake Community College"
  -`   `-/s/-:.      .:-/s/-`   `-         Transfer: "University of Utah"
 `-/+--8o+-/+o+--::--+o+/-+o4--+/-`        Languages.RL: "English & Spanish"
-` .+:+s+:-:ommy+::+ymmo:-:+s+:+. `        Languages.CS(1): "Java, C++, Python, SQL/MySQL, JavaScript, PHP"
-.:/+..  `..`:///--///:`..` `..+/:.        Languages.CS(2): "HTML, CSS, Processing, TeX, Assembly"
-./.         .:-:oo:-:.         ./.        Currently Learning: "Rust, C, and R"
+` .+:+s+:-:ommy+::+ymmo:-:+s+:+. `        Languages.CS(x): "Java, C++, Python, R, SQL/MySQL, JavaScript, PHP"
+.:/+..  `..`:///--///:`..` `..+/:.        Languages.CS(y): "HTML, CSS, Processing, TeX, C, Assembly"
+./.         .:-:oo:-:.         ./.        Currently Learning: "Selenium, Tomcat, Spring, and Rust."
 `-           `.ommo.`           -`        Proficiencies(x): "Manim, Matplotlib, JExcel, G-Colab, Plotly"
- .           `-/yy/-`           .         Proficiencies(y): "Houdini, Blender, p5.js, Tableau, Pygal..."
-             -::::::-                     Hobbies():
-   ``      .-6ds::s-9o.      ``            - "Skiing, hiking, skydiving, kayaking, reading, stargazing"
-    `.--/:+o://````//:o+:/--.`             - "programming trivial stuff, gaming, eating out..."
+ .           `-/yy/-`           .         Proficiencies(y): "Houdini, Blender, p5.js, Tableau, Pygal, Log4j"
+             -::::::-                     Proficiencies(z): "MariaDB, phpMyAdmin, NumPy, pandas, ggplot2"
+   ``      .-6ds::s-9o.      ``           Hobbies():
+    `.--/:+o://````//:o+:/--.`             - "Skiing, hiking, skydiving, kayaking, reading, stargazing"
        .`/``:o`    `o:``/`.               Interested():
            `---`  `---`                    + "Scientific computing, visualization, graphics, and data compression"       
 ```
