@@ -19,11 +19,6 @@
            `---`  `---`                    + "Scientific computing, visualization, and data compression"       
 ```
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morkev&layout=compact&show_icons=true&theme=ayu-mirage&hide_border=true&langs_count=8)](https://github.com/morkev/github-readme-stats)">
-  <img alt="S" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morkev&layout=compact&show_icons=true&theme=prussian&hide_border=true&langs_count=8)](https://github.com/morkev/github-readme-stats)">
-</picture>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morkev&layout=compact&show_icons=true&theme=ayu-mirage&hide_border=true&langs_count=8)](https://github.com/morkev/github-readme-stats)
 
 <!-- Best programming language themes from Vercel's API:
