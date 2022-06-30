@@ -30,5 +30,5 @@ jobs:
           git diff
           git config --global user.email "github-action-bot@example.com"
           git config --global user.name "GitHub Action Bot"
-          git commit -m "I am a bot. All I do is update this README. HELP!!!" -a || echo "No changes to commit"
+          git commit -m "I am a bot. I only keep this README updated. :(" -a || echo "Fuck, something went wrong."
           git push
