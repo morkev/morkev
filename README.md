@@ -58,6 +58,9 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 ///////////////////////////////////////////////////////////////////////////////////////
 Buy me a coffee (banner) – bruh, I don't need money for a coffee lol.
 <a href="https://www.buymeacoffee.com/morkev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a> 
-COOKING SOME YUCKY CODE!!!
+
+COOKING SOME YUCKY CODE!!! 
+Uhm, very hacky of you to be here!!!
+Lots of views but no stars :(
 ///////////////////////////////////////////////////////////////////////////////////////
 -->
