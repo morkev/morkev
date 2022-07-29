@@ -3,20 +3,20 @@
            `.-``    ``-.`                 sci.kevinmora@gmail.com         
        `:.+-          -+.:`               ——————
      -` .s-            -s. `-             Uptime: "21 years, 1 month, 25 days"
-   `.-/+:/-            -/:+/-.`           OS: "Linux, macOS & Windows"
-       .s1/`          `/9o.               College: "Salt Lake Community College"
- -`   `-/s/-:.      .:-/s/-`   `-         Transfer: "University of Utah"
-`-/+--8o+-/+o+--::--+o+/-+o4--+/-`        Languages.RL: "English and Spanish"
-` .+:+s+:-:ommy+::+ymmo:-:+s+:+. `        Languages.CS(x): "Java, C++, Python, R, SQL/MySQL, JavaScript, C"
-.:/+..  `..`:///--///:`..` `..+/:.        Languages.CS(y): "PHP, HTML, CSS, Processing, TeX, Assembly"
-./.         .:-:oo:-:.         ./.        Currently Learning: "Selenium, Tomcat, Spring, Hibernate, Rust."
-`-           `.ommo.`           -`        Proficiencies(x): "Matplotlib, JExcel, JUnit, Plotly, Houdini"
- .           `-/yy/-`           .         Proficiencies(y): "Manim, Blender, p5.js, Tableau, Pygal, Log4j"
-             -::::::-                     Proficiencies(z): "Power Bi, NumPy, pandas, Looker, ggplot2"
-   ``      .-6ds::s-9o.      ``           Other Hobbies():
-    `.--/:+o://````//:o+:/--.`             - "Skiing, hiking, piano, kayaking, reading, stargazing"
-       .`/``:o`    `o:``/`.               Interested():
-           `---`  `---`                    + "Scientific computing, graphics, and data compression"       
+   `.-/+:/-            -/:+/-.`           College: "Salt Lake Community College"
+       .s1/`          `/9o.               Transfer: "University of Utah"
+ -`   `-/s/-:.      .:-/s/-`   `-         ——————
+`-/+--8o+-/+o+--::--+o+/-+o4--+/-`        Languages.CS(x): "Java, C, C++, Python, R, SQL/MySQL, JavaScript"
+` .+:+s+:-:ommy+::+ymmo:-:+s+:+. `        Languages.CS(y): "PHP, HTML, CSS, Processing, TeX, Assembly, Rust"
+.:/+..  `..`:///--///:`..` `..+/:.        Currently Learning: "Selenium, Tomcat, Spring, Hibernate, J2EE"
+./.         .:-:oo:-:.         ./.        ——————
+`-           `.ommo.`           -`        Databases: "MySQL, PostgreSQL, MariaDB, MongoDB, Cassandra"
+ .           `-/yy/-`           .         Proficiencies(x): "JUnit, JExcel, Plotly, Log4j, ggplot2, Pygal"
+             -::::::-                     Proficiencies(y): "Tableau, D3.js, p5.js, Manim, Pygal, Matplotlib"
+   ``      .-6ds::s-9o.      ``           Proficiencies(z): "Power Bi, NumPy, pandas, Looker, TensorFlow"
+    `.--/:+o://````//:o+:/--.`            ——————
+       .`/``:o`    `o:``/`.               Interested:
+           `---`  `---`                    + "Scientific computing, embedded systems, data compression"       
 ```
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morkev&layout=compact&show_icons=true&theme=ayu-mirage&hide_border=true&langs_count=8)](https://github.com/morkev/github-readme-stats)
