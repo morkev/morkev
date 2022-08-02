@@ -2,7 +2,7 @@
 
            `.-``    ``-.`                 sci.kevinmora@gmail.com         
        `:.+-          -+.:`               ——————
-     -` .s-            -s. `-             Uptime: "21 years, 1 month, 28 days"
+     -` .s-            -s. `-             Uptime: "21 years, 1 month, 29 days"
    `.-/+:/-            -/:+/-.`           College: "Salt Lake Community College"
        .s1/`          `/9o.               Transfer: "University of Utah"
  -`   `-/s/-:.      .:-/s/-`   `-         ——————
