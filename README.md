@@ -10,7 +10,7 @@
 ` .+:+s+:-:ommy+::+ymmo:-:+s+:+. `        Languages.CS(y): "PHP, HTML, CSS, Processing, TeX, Assembly, Rust"
 .:/+..  `..`:///--///:`..` `..+/:.        Currently Learning: "Selenium, Tomcat, Spring, Hibernate, J2EE"
 ./.         .:-:oo:-:.         ./.        ——————
-`-           `.ommo.`           -`        Databases: "MySQL, PostgreSQL, MariaDB, MongoDB, Cassandra"
+`-           `.ommo.`           -`        Databases: "MySQL, PostgreSQL, MariaDB, MongoDB"
  .           `-/yy/-`           .         Proficiencies(x): "JUnit, JExcel, Plotly, Log4j, ggplot2, Pygal"
              -::::::-                     Proficiencies(y): "Tableau, D3.js, p5.js, Manim, Pygal, Matplotlib"
    ``      .-6ds::s-9o.      ``           Proficiencies(z): "Power Bi, NumPy, pandas, Looker, TensorFlow"
@@ -31,7 +31,6 @@
 <a href= https://www.youtube.com/watch?v=dQw4w9WgXcQ > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href= https://www.youtube.com/watch?v=dQw4w9WgXcQ > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
 <a href= https://www.youtube.com/watch?v=dQw4w9WgXcQ > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://www.youtube.com/watch?v=dQw4w9WgXcQ > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
 <a href= https://www.youtube.com/watch?v=dQw4w9WgXcQ > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/blender.svg'> </a>
 <a href= https://www.youtube.com/watch?v=dQw4w9WgXcQ > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
 <a href= https://www.youtube.com/watch?v=dQw4w9WgXcQ > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'> </a>
@@ -39,7 +38,6 @@
 <a href= https://www.youtube.com/watch?v=dQw4w9WgXcQ > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
 <a href= https://www.youtube.com/watch?v=dQw4w9WgXcQ > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/selenium.svg'> </a>
 <a href= https://www.youtube.com/watch?v=dQw4w9WgXcQ > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/spring.svg'> </a>
-<a href= https://www.youtube.com/watch?v=dQw4w9WgXcQ > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cassandra.svg'> </a>
 <a href= https://www.youtube.com/watch?v=dQw4w9WgXcQ > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/d3js.svg'> </a>
 <a href= https://www.youtube.com/watch?v=dQw4w9WgXcQ > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg'> </a>
 <a href= https://www.youtube.com/watch?v=dQw4w9WgXcQ > <img width ='32px' height='32px' src ='https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png'> </a>
