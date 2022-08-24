@@ -6,8 +6,8 @@
    `.-/+:/-            -/:+/-.`           College: "Salt Lake Community College"
        .s1/`          `/9o.               Transfer: "University of Utah"
  -`   `-/s/-:.      .:-/s/-`   `-         ——————
-`-/+--8o+-/+o+--::--+o+/-+o4--+/-`        Languages.CS(x): "Java, C, C++, Python, R, SQL/MySQL, JavaScript"
-` .+:+s+:-:ommy+::+ymmo:-:+s+:+. `        Languages.CS(y): "PHP, HTML, CSS, Processing, TeX, Assembly, Rust"
+`-/+--8o+-/+o+--::--+o+/-+o4--+/-`        Languages.CS(x): "Java, C, Python, R, SQL, JavaScript, PHP"
+` .+:+s+:-:ommy+::+ymmo:-:+s+:+. `        Languages.CS(y): "C++, TypeScript, HTML, CSS, TeX, Assembly, Rust"
 .:/+..  `..`:///--///:`..` `..+/:.        Currently Learning: "Selenium, Tomcat, Spring, Hibernate, J2EE"
 ./.         .:-:oo:-:.         ./.        ——————
 `-           `.ommo.`           -`        Databases: "MySQL, PostgreSQL, MariaDB, MongoDB"
