@@ -10,10 +10,10 @@
 ` .+:+s+:-:ommy+::+ymmo:-:+s+:+. `        Databases: "MySQL, PostgreSQL, MariaDB, MongoDB"
 .:/+..  `..`:///--///:`..` `..+/:.        Currently Learning: "Selenium, Tomcat, Spring, Hibernate, J2EE"
 ./.         .:-:oo:-:.         ./.        ——————
-`-           `.ommo.`           -`        Proficiencies(k): "JUnit, JExcel, Log4j, Tableau, ggplot2, Seaborn"
+`-           `.ommo.`           -`        Proficiencies(i): "JUnit, JExcel, Log4j, Tableau, ggplot2, Seaborn"
  .           `-/yy/-`           .         Proficiencies(j): "Looker, Plotly, D3.js, p5.js, Pygal, Power Bi"
-             -::::::-                     Proficiencies(i): "Matplotlib, NumPy, pandas, Manim, TensorFlow"
-   ``      .-6ds::s-9o.      ``           Proficiencies(1): "Shell Scripting, HTML, CSS, TeX, JSON, YAML"
+             -::::::-                     Proficiencies(k): "Matplotlib, NumPy, pandas, Manim, TensorFlow"
+   ``      .-6ds::s-9o.      ``           Proficiencies(l): "Shell Scripting, HTML, CSS, TeX, JSON, YAML"
     `.--/:+o://````//:o+:/--.`            ——————
        .`/``:o`    `o:``/`.               Interested:
            `---`  `---`                    + "Scientific computing, parallel computing, data compression"       
