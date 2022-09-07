@@ -3,20 +3,20 @@
            `.-``    ``-.`                 sci.kevinmora@gmail.com         
        `:.+-          -+.:`               ——————
      -` .s-            -s. `-             Uptime: "21 years, 3 months, 3 days"
-   `.-/+:/-            -/:+/-.`           College: "Salt Lake Community College"
-       .s1/`          `/9o.               Transfer: "University of Utah"
- -`   `-/s/-:.      .:-/s/-`   `-         ——————
-`-/+--8o+-/+o+--::--+o+/-+o4--+/-`        Languages.CS(x): "Java, C, Python, R, SQL, JavaScript, PHP"
-` .+:+s+:-:ommy+::+ymmo:-:+s+:+. `        Languages.CS(y): "C++, TypeScript, HTML, CSS, TeX, Assembly, Rust"
+   `.-/+:/-            -/:+/-.`           College: "SLCC –> UofU / UCR"
+       .s1/`          `/9o.               ——————
+ -`   `-/s/-:.      .:-/s/-`   `-         Languages.CS(x): "Java, SQL, C, Python, R, JavaScript, PHP"
+`-/+--8o+-/+o+--::--+o+/-+o4--+/-`        Languages.CS(y): "C++, TypeScript, MATLAB, Assembly, Rust"
+` .+:+s+:-:ommy+::+ymmo:-:+s+:+. `        Databases: "MySQL, PostgreSQL, MariaDB, MongoDB"
 .:/+..  `..`:///--///:`..` `..+/:.        Currently Learning: "Selenium, Tomcat, Spring, Hibernate, J2EE"
 ./.         .:-:oo:-:.         ./.        ——————
-`-           `.ommo.`           -`        Databases: "MySQL, PostgreSQL, MariaDB, MongoDB"
- .           `-/yy/-`           .         Proficiencies(x): "JUnit, JExcel, Plotly, Log4j, ggplot2, Pygal"
-             -::::::-                     Proficiencies(y): "Tableau, D3.js, p5.js, Manim, Pygal, Matplotlib"
-   ``      .-6ds::s-9o.      ``           Proficiencies(z): "Power Bi, NumPy, pandas, Looker, TensorFlow"
+`-           `.ommo.`           -`        Proficiencies(k): "JUnit, JExcel, Log4j, Tableau, ggplot2, Seaborn"
+ .           `-/yy/-`           .         Proficiencies(j): "Looker, Plotly, D3.js, p5.js, Pygal, Power Bi"
+             -::::::-                     Proficiencies(i): "Matplotlib, NumPy, pandas, Manim, TensorFlow"
+   ``      .-6ds::s-9o.      ``           Proficiencies(1): "Shell Scripting, HTML, CSS, TeX, JSON, YAML"
     `.--/:+o://````//:o+:/--.`            ——————
        .`/``:o`    `o:``/`.               Interested:
-           `---`  `---`                    + "Scientific computing, embedded systems, data compression"       
+           `---`  `---`                    + "Scientific computing, parallel computing, data compression"       
 ```
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morkev&layout=compact&show_icons=true&theme=ayu-mirage&hide_border=true&langs_count=8)](https://github.com/morkev/github-readme-stats)
