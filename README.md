@@ -2,7 +2,7 @@
 
            `.-``    ``-.`                 sci.kevinmora@gmail.com         
        `:.+-          -+.:`               ——————
-     -` .s-            -s. `-             Uptime: "21 years, 3 months, 16 days"
+     -` .s-            -s. `-             Uptime: "21 years, 3 months, 17 days"
    `.-/+:/-            -/:+/-.`           College: "SLCC –> UofU / UCR"
        .s1/`          `/9o.               ——————
  -`   `-/s/-:.      .:-/s/-`   `-         Languages.CS(x): "Java, SQL, C, Python, R, JavaScript, PHP"
