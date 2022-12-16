@@ -3,7 +3,7 @@
            `.-``    ``-.`                 sci.kevinmora@gmail.com         
        `:.+-          -+.:`               ——————
      -` .s-            -s. `-             Uptime: "21 years, 6 months, 12 days"
-   `.-/+:/-            -/:+/-.`           College: "SLCC –> University of California"
+   `.-/+:/-            -/:+/-.`           College: "UC Riverside"
        .s1/`          `/9o.               ——————
  -`   `-/s/-:.      .:-/s/-`   `-         Languages.CS(x): "Java, SQL, C, Python, R, JavaScript, PHP"
 `-/+--8o+-/+o+--::--+o+/-+o4--+/-`        Languages.CS(y): "C++, TypeScript, MATLAB, Assembly, Rust"
