@@ -21,30 +21,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morkev&layout=compact&show_icons=true&theme=ayu-mirage&hide_border=true&langs_count=10)](https://github.com/morkev/github-readme-stats)
 
-<h2> </h2>
-<a href= https://www.youtube.com/watch?v=dQw4w9WgXcQ > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
-<a href= https://www.youtube.com/watch?v=dQw4w9WgXcQ > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
-<a href= https://www.youtube.com/watch?v=dQw4w9WgXcQ > <img width ='32px' height='32px' src ='https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/2560px-R_logo.svg.png'> </a>
-<a href= https://www.youtube.com/watch?v=dQw4w9WgXcQ > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
-<a href= https://www.youtube.com/watch?v=dQw4w9WgXcQ > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href= https://www.youtube.com/watch?v=dQw4w9WgXcQ > <img width ='32px' height='32px' src ='https://doc.rust-lang.org/book/img/ferris/not_desired_behavior.svg'> </a>
-<a href= https://www.youtube.com/watch?v=dQw4w9WgXcQ > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://www.youtube.com/watch?v=dQw4w9WgXcQ > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://www.youtube.com/watch?v=dQw4w9WgXcQ > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://www.youtube.com/watch?v=dQw4w9WgXcQ > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/blender.svg'> </a>
-<a href= https://www.youtube.com/watch?v=dQw4w9WgXcQ > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
-<a href= https://www.youtube.com/watch?v=dQw4w9WgXcQ > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'> </a>
-<a href= https://www.youtube.com/watch?v=dQw4w9WgXcQ > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mariadb.svg'> </a>
-<a href= https://www.youtube.com/watch?v=dQw4w9WgXcQ > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
-<a href= https://www.youtube.com/watch?v=dQw4w9WgXcQ > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/selenium.svg'> </a>
-<a href= https://www.youtube.com/watch?v=dQw4w9WgXcQ > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/spring.svg'> </a>
-<a href= https://www.youtube.com/watch?v=dQw4w9WgXcQ > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/d3js.svg'> </a>
-<a href= https://www.youtube.com/watch?v=dQw4w9WgXcQ > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg'> </a>
-<a href= https://www.youtube.com/watch?v=dQw4w9WgXcQ > <img width ='32px' height='32px' src ='https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png'> </a>
-<a href= https://www.youtube.com/watch?v=dQw4w9WgXcQ > <img width ='32px' height='32px' src ='https://seaborn.pydata.org/_images/logo-mark-lightbg.svg'> </a>
-<a href= https://www.youtube.com/watch?v=dQw4w9WgXcQ > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tensorflow.svg'> </a>
-
-
 <!-- 
 ///////////////////////////////////////////////////////////////////////////////////////
 Best programming language themes from Vercel's API:
