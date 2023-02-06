@@ -12,7 +12,7 @@ months = diff.months
 days = diff.days
 
 def dailyreadme():
-    if years > 100:
+    if years > 85:
         return 'null. I am dead. Go out there and enjoy life."'
     elif days == 1:
         if months == 1:
