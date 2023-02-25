@@ -16,7 +16,7 @@
    ``      .-6ds::s-9o.      ``           Proficiencies(l): "Shell Scripting, HTML, CSS, TeX, JSON, YAML"
     `.--/:+o://````//:o+:/--.`            ——————
        .`/``:o`    `o:``/`.               Interested:
-           `---`  `---`                    + "Scientific / parallel computing, embedded systems..."       
+           `---`  `---`                    + "Scientific / parallel computing, embedded systems."       
 ```
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morkev&layout=compact&show_icons=true&theme=ayu-mirage&hide_border=true&langs_count=10)](https://github.com/morkev/github-readme-stats)
