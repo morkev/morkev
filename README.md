@@ -16,7 +16,7 @@
    ``      .-6ds::s-9o.      ``           Proficiencies(l): "Shell Scripting, HTML, CSS, TeX, JSON, YAML"
     `.--/:+o://````//:o+:/--.`            ——————
        .`/``:o`    `o:``/`.               Interested:
-           `---`  `---`                    + "Scientific / parallel computing, embedded systems."       
+           `---`  `---`                    + "Scientific / parallel computing, SWE and embedded systems."       
 ```
 
 <!--
