@@ -5,13 +5,13 @@
      -` .s-            -s. `-             Uptime: "21 years, 11 months, 3 days"
    `.-/+:/-            -/:+/-.`           College: "U of Utah –> UC Riverside"
        .s1/`          `/9o.               ——————
- -`   `-/s/-:.      .:-/s/-`   `-         Languages.CS(x): "Java, C, C++, Python, R, SQL, JavaScript"
-`-/+--8o+-/+o+--::--+o+/-+o4--+/-`        Languages.CS(y): "PHP, TypeScript, MATLAB, Assembly, Rust"
+ -`   `-/s/-:.      .:-/s/-`   `-         Languages.CS(x): "Java, C, Python, R, SQL, JavaScript"
+`-/+--8o+-/+o+--::--+o+/-+o4--+/-`        Languages.CS(y): "C++, PHP, TypeScript, MATLAB, Assembly"
 ` .+:+s+:-:ommy+::+ymmo:-:+s+:+. `        Databases: "MySQL, PostgreSQL, MariaDB, MongoDB"
 .:/+..  `..`:///--///:`..` `..+/:.        Currently Learning: "Spring, Selenium, Hibernate, Kotlin"
 ./.         .:-:oo:-:.         ./.        ——————
-`-           `.ommo.`           -`        Proficiencies(i): "JUnit, JExcel, Log4j, Tableau, ggplot2, Seaborn"
- .           `-/yy/-`           .         Proficiencies(j): "Looker, Plotly, D3.js, p5.js, Pygal, Power Bi"
+`-           `.ommo.`           -`        Proficiencies(i): "JUnit, JExcel, Log4j, Tableau, Seaborn"
+ .           `-/yy/-`           .         Proficiencies(j): "Plotly, D3.js, p5.js, Pygal, Power Bi"
              -::::::-                     Proficiencies(k): "Matplotlib, NumPy, pandas, Manim, TensorFlow"
    ``      .-6ds::s-9o.      ``           Proficiencies(l): "Shell Scripting, HTML, CSS, TeX, JSON, YAML"
     `.--/:+o://````//:o+:/--.`            ——————
