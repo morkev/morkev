@@ -11,12 +11,12 @@
 .:/+..  `..`:///--///:`..` `..+/:.        Currently Learning: "Spring, Selenium, Hibernate, Kotlin"
 ./.         .:-:oo:-:.         ./.        ——————
 `-           `.ommo.`           -`        Proficiencies(i): "JUnit, JExcel, Log4j, Tableau, Seaborn"
- .           `-/yy/-`           .         Proficiencies(j): "Plotly, D3.js, p5.js, Pygal, Power Bi"
+ .           `-/yy/-`           .         Proficiencies(j): "TensorFlow, D3.js, p5.js, Pygal, Power Bi"
              -::::::-                     Proficiencies(k): "Shell Scripting, HTML, CSS, TeX, JSON"
    ``      .-6ds::s-9o.      ``           ...
     `.--/:+o://````//:o+:/--.`            ——————
        .`/``:o`    `o:``/`.               Interested:
-           `---`  `---`                    + "SWE, scientific / parallel computing, embedded systems."       
+           `---`  `---`                   "SWE, scientific / parallel computing, embedded systems"       
 ```
 
 <!--
