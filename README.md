@@ -12,11 +12,11 @@
 ./.         .:-:oo:-:.         ./.        ——————
 `-           `.ommo.`           -`        Proficiencies(i): "JUnit, JExcel, Log4j, Tableau, Seaborn"
  .           `-/yy/-`           .         Proficiencies(j): "Plotly, D3.js, p5.js, Pygal, Power Bi"
-             -::::::-                     Proficiencies(k): "Matplotlib, NumPy, pandas, Manim, TensorFlow"
-   ``      .-6ds::s-9o.      ``           Proficiencies(l): "Shell Scripting, HTML, CSS, TeX, JSON, YAML"
+             -::::::-                     Proficiencies(k): "Shell Scripting, HTML, CSS, TeX, JSON"
+   ``      .-6ds::s-9o.      ``           ...
     `.--/:+o://````//:o+:/--.`            ——————
        .`/``:o`    `o:``/`.               Interested:
-           `---`  `---`                    + "Scientific / parallel computing, SWE and embedded systems."       
+           `---`  `---`                    + "SWE, scientific / parallel computing, embedded systems."       
 ```
 
 <!--
