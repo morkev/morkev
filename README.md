@@ -5,8 +5,8 @@
      -` .s-            -s. `-             Uptime: "21 years, 11 months, 29 days"
    `.-/+:/-            -/:+/-.`           College: "U of Utah –> UC Riverside"
        .s1/`          `/9o.               ——————
- -`   `-/s/-:.      .:-/s/-`   `-         Languages.CS(x): "Java, C, Python, R, SQL, JavaScript"
-`-/+--8o+-/+o+--::--+o+/-+o4--+/-`        Languages.CS(y): "C++, PHP, TypeScript, MATLAB, Assembly"
+ -`   `-/s/-:.      .:-/s/-`   `-         Languages.CS(x): "Java, C++, C, Python, R, SQL"
+`-/+--8o+-/+o+--::--+o+/-+o4--+/-`        Languages.CS(y): "JavaScript, PHP, TypeScript, MATLAB, Assembly"
 ` .+:+s+:-:ommy+::+ymmo:-:+s+:+. `        Databases: "MySQL, PostgreSQL, MariaDB, MongoDB"
 .:/+..  `..`:///--///:`..` `..+/:.        Currently Learning: "Spring, Selenium, Hibernate, Kotlin"
 ./.         .:-:oo:-:.         ./.        ——————
