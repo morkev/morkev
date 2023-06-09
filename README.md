@@ -16,21 +16,16 @@
    ``      .-6ds::s-9o.      ``           ...
     `.--/:+o://````//:o+:/--.`            ——————
        .`/``:o`    `o:``/`.               Interested:
-           `---`  `---`                   "SWE, scientific / parallel computing, embedded systems"       
+           `---`  `---`                   "Software engineering, scientific computing, embedded systems"       
 ```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morkev&layout=compact&show_icons=true&theme=vue-dark&hide_border=true&langs_count=10)](https://github.com/morkev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morkev&layout=compact&show_icons=true&theme=ayu-mirage&hide_border=true&langs_count=10)](https://github.com/morkev/github-readme-stats)
 
 <!--
 ///////////////////////////////////////////////////////////////////////////////////////
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morkev&layout=compact&show_icons=true&theme=ayu-mirage&hide_border=true&langs_count=10)](https://github.com/morkev/github-readme-stats)
 Best programming language themes from Vercel's API:
-radical, dark, ayu-mirage, nord,blue-green, vue-dark, prussian, gruvbox, 
+radical, dark, ayu-mirage, nord, blue-green, vue-dark, prussian, gruvbox, 
 gruvbox_light, onedark, darcula, gotham, calm, material-palenight, slateorange
-
-COOKING SOME YUCKY CODE
-Uhm, very hacky of you to be here!
-Lots of views but no stars, and no bitches
-When will I start making 120k per year?!?!
 ///////////////////////////////////////////////////////////////////////////////////////
 -->
