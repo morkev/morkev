@@ -3,7 +3,7 @@
            `.-``    ``-.`                 sci.kevinmora@gmail.com         
        `:.+-          -+.:`               ——————
      -` .s-            -s. `-             Uptime: "22 years, 7 days"
-   `.-/+:/-            -/:+/-.`           College: "U of Utah –> UC Riverside"
+   `.-/+:/-            -/:+/-.`           College: "Utah –> California"
        .s1/`          `/9o.               ——————
  -`   `-/s/-:.      .:-/s/-`   `-         Languages.CS(x): "Java, C++, C, Python, R, SQL"
 `-/+--8o+-/+o+--::--+o+/-+o4--+/-`        Languages.CS(y): "JavaScript, PHP, TypeScript, MATLAB, Assembly"
