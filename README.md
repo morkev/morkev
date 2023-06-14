@@ -5,15 +5,15 @@
  Uptime: "22 years, 10 days"
  College: "Utah –> California"
  ——————
- Languages.CS(x): "Java, C++, C, Python, R, SQL"
- Languages.CS(y): "JavaScript, PHP, TypeScript, MATLAB, Assembly"
- Databases: "MySQL, PostgreSQL, MariaDB, MongoDB"
- Currently Learning: "Spring, Selenium, Hibernate, Kotlin"
+ Languages.CS(x): "Java, C++, SQL, Python"
+ Languages.CS(y): "C, JavaScript, TypeScript, PHP, HTML, CSS"
+ Languages.CS(z): "C#, R, MATLAB, Mathematica, LaTeX, Assembly"
  ——————
- Frameworks(i): "JUnit, JExcel, Log4j, Tableau, Seaborn"
- Frameworks(j): "TensorFlow, D3.js, p5.js, Pygal, Power Bi"
- Frameworks(k): "Shell Scripting, HTML, CSS, TeX, JSON"
- ...
+ Databases: "MySQL, PostgreSQL, MariaDB, MongoDB"
+ ——————
+ Frameworks(i): "Spring Core/Boot, Selenium, Thymeleaf, Hibernate"
+ Frameworks(i): "JUnit, Log4j, React, Vite, Next, Tailwind, Vue"
+ Frameworks(j): "Tableau, Seaborn, Power Bi, D3.js, ArcGIS, NX Siemens"
  ——————
  Interested:
  "Software engineering, embedded systems, scientific computing"       
