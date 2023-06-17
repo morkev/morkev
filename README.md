@@ -12,7 +12,7 @@
  Databases: "MySQL, PostgreSQL, MariaDB, MongoDB"
  ——————
  Frameworks(i): "Spring Core/Boot, Selenium, Thymeleaf, Hibernate"
- Frameworks(i): "JUnit, Log4j, Maven, React, Next, Tailwind, Vue"
+ Frameworks(i): "JUnit, Log4j, Maven, React, Vite, Next, Tailwind, Vue"
  Frameworks(j): "Tableau, Seaborn, Power Bi, D3.js, ArcGIS, NX Siemens"
  ——————
  Interested:
