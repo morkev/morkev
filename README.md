@@ -4,16 +4,18 @@ sci.kevinmora@gmail.com
 ——————
 Uptime: "22 years, 29 days"
 College: "Utah –> California"
+Mother Tongues: "English and Spanish"
 ——————
 Languages.CS(x): "Java, C++, SQL, Python"
 Languages.CS(y): "C, JavaScript, TypeScript, PHP, HTML, CSS"
 Languages.CS(z): "C#, R, MATLAB, Mathematica, LaTeX, Assembly"
 ——————
 Databases: "MySQL, PostgreSQL, MariaDB, MongoDB"
+Vector Databases: "Milvus, Pinecone, Weaviate"
 ——————
 Frameworks(i): "Spring Core/Boot, Selenium, Thymeleaf, Hibernate"
-Frameworks(i): "JUnit, Log4j, Maven, React, Vite, Next, Tailwind, Vue"
-Frameworks(j): "Tableau, Seaborn, Power Bi, D3.js, ArcGIS, NX Siemens"
+Frameworks(j): "JUnit, Log4j, Maven, React, Vite, Next, Tailwind, Vue"
+Frameworks(k): "Tableau, Seaborn, Power Bi, D3.js, ArcGIS, NX Siemens"
 ——————
 Interested:
 "Software engineering, embedded systems, scientific computing"       
