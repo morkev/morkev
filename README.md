@@ -4,7 +4,6 @@ sci.kevinmora@gmail.com
 ——————
 Uptime: "22 years, 1 month, 0 days"
 College: "Utah –> California"
-Mother Tongues: "English and Spanish"
 ——————
 Languages.CS(x): "Java, C++, SQL, Python"
 Languages.CS(y): "C, JavaScript, TypeScript, PHP, HTML, CSS"
