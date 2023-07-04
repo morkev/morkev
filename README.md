@@ -2,7 +2,7 @@
 
 sci.kevinmora@gmail.com         
 ——————
-Uptime: "22 years, 29 days"
+Uptime: "22 years, 1 month, 0 days"
 College: "Utah –> California"
 Mother Tongues: "English and Spanish"
 ——————
