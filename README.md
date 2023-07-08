@@ -12,9 +12,9 @@ Languages.CS(z): "C#, R, MATLAB, Mathematica, LaTeX, Assembly"
 Databases: "MySQL, PostgreSQL, MariaDB, MongoDB"
 Vector Databases: "Milvus, Pinecone, Weaviate"
 ——————
-Frameworks(i): "Spring Core/Boot, Selenium, Thymeleaf, Hibernate"
-Frameworks(j): "JUnit, Log4j, Maven, React, Vite, Next, Tailwind, Vue"
-Frameworks(k): "Tableau, Seaborn, Power Bi, D3.js, ArcGIS, NX Siemens"
+TechStack(i): "Spring Core/Boot, Selenium, Thymeleaf, Hibernate"
+TechStack(j): "JUnit, Log4j, Maven, React, Vite, Next, Tailwind, Vue"
+TechStack(k): "Tableau, Seaborn, Power Bi, D3.js, ArcGIS, NX Siemens"
 ——————
 Interested:
 "Software engineering, embedded systems, scientific computing"       
