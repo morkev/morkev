@@ -2,7 +2,7 @@
 
 sci.kevinmora@gmail.com         
 ——————
-Uptime: "22 years, 1 month, 13 days"
+Uptime: "22 years, 1 month, 14 days"
 College: "Utah –> California"
 ——————
 Languages.CS(x): "Java, C++, SQL, Python"
