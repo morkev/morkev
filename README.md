@@ -5,9 +5,9 @@ sci.kevinmora@gmail.com
 Uptime: "22 years, 1 month, 28 days"
 College: "Utah –> California"
 ——————
-Languages.CS(x): "Java, C++, SQL, Python"
-Languages.CS(y): "C, JavaScript, TypeScript, PHP, HTML, CSS"
-Languages.CS(z): "C#, R, MATLAB, Mathematica, LaTeX, Assembly"
+Languages.CS(x): "Java, C++, SQL, Python, JavaScript"
+Languages.CS(y): "C#, C, TypeScript, PHP, HTML, CSS"
+Languages.CS(z): "R, MATLAB, Mathematica, LaTeX, Assembly"
 ——————
 Databases: "MySQL, PostgreSQL, MariaDB, MongoDB"
 Vector Databases: "Milvus, Pinecone, Weaviate"
