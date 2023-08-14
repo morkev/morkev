@@ -20,12 +20,15 @@ Interested:
 "Software engineering, embedded systems, scientific computing"       
 ```
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morkev&layout=compact&show_icons=true&theme=ayu-mirage&hide_border=true&langs_count=10)](https://github.com/morkev/github-readme-stats)
+<p align=left>
+<!-- <img algin='left' width='49%' src='https://github-readme-stats.vercel.app/api?username=tynab&count_private=true&show_icons=true&theme=dracula' /> -->
+<img align='left' src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=morkev&layout=compact&theme=ayu-mirage&hide_border=true&langs_count=10' />
+<img algin='right' width='49.7%' src='https://github-readme-streak-stats.herokuapp.com/?user=morkev&theme=ayu-mirage&hide_border=true' />
+</p>
 
 <!--
 ///////////////////////////////////////////////////////////////////////////////////////
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morkev&layout=compact&show_icons=true&theme=ayu-mirage&hide_border=true&langs_count=10)](https://github.com/morkev/github-readme-stats)
-Best programming language themes from Vercel's API:
+Best programming language themes from Readme Stats API:
 radical, dark, ayu-mirage, nord, blue-green, vue-dark, prussian, gruvbox, 
 gruvbox_light, onedark, darcula, gotham, calm, material-palenight, slateorange
 ///////////////////////////////////////////////////////////////////////////////////////
