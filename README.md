@@ -1,8 +1,9 @@
 ```python
 ——————
 College: "Utah –> California"
+
 ——————
-Uptime: "22 years, 2 months, 20 days"
+Languages.CS(x): "Java, C++, SQL, Python, JavaScript"
 Languages.CS(y): "C#, C, TypeScript, PHP, HTML, CSS"
 Languages.CS(z): "R, MATLAB, Mathematica, LaTeX, Assembly"
 ——————
@@ -30,3 +31,11 @@ radical, dark, ayu-mirage, nord, blue-green, vue-dark, prussian, gruvbox,
 gruvbox_light, onedark, darcula, gotham, calm, material-palenight, slateorange
 ///////////////////////////////////////////////////////////////////////////////////////
 -->
+——————
+Uptime: "22 years, 2 months, 20 days"
+College: "Utah –> California"
+——————
+Languages.CS(x): "Java, C++, SQL, Python, JavaScript"
+Languages.CS(y): "C#, C, TypeScript, PHP, HTML, CSS"
+Languages.CS(z): "R, MATLAB, Mathematica, LaTeX, Assembly"
+——————
