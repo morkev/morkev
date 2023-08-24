@@ -1,6 +1,4 @@
-```python
-
-sci.kevinmora@gmail.com         
+```python 
 ——————
 Uptime: "22 years, 2 months, 20 days"
 College: "Utah –> California"
