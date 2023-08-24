@@ -38,9 +38,9 @@ def converttuple(tup):
 def readmeoverwrite():
     with open("README.md", "r") as file:
         data = file.readlines()
-        line4 = ('Uptime: "', dailyreadme(), "\n")
+        line3 = ('Uptime: "', dailyreadme(), "\n")
     tup2str = converttuple(line4)
-    data[4] = tup2str
+    data[3] = tup2str
 
     with open('README.md', 'w') as file:
         file.writelines(data)
