@@ -15,8 +15,8 @@ TechStack(i): "Spring Core/Boot, Selenium, Thymeleaf, Hibernate"
 TechStack(j): "JUnit, Log4j, Maven, React, Vite, Next, Tailwind, Vue"
 TechStack(k): "Tableau, Seaborn, Power Bi, D3.js, ArcGIS, NX Siemens"
 ——————
-Interested:
-"Software engineering, embedded systems, scientific computing"       
+Interests:
+"Software engineering, high performance computing, parallel computing"       
 ```
 
 <p align=left>
