@@ -2,7 +2,7 @@
 ——————
 College: "Utah –> California"
 ——————
-Uptime: "22 years, 3 months, 8 days"
+Uptime: "22 years, 3 months, 9 days"
 ——————
 Languages.CS(x): "Java, C++, SQL, Python, JavaScript"
 Languages.CS(y): "C#, C, TypeScript, PHP, HTML, CSS"
