@@ -6,17 +6,18 @@ Uptime: "22 years, 3 months, 12 days"
 ——————
 Languages.CS(x): "Java, C++, SQL, Python, JavaScript"
 Languages.CS(y): "C#, C, TypeScript, PHP, HTML, CSS"
-Languages.CS(z): "R, MATLAB, Mathematica, LaTeX, Assembly"
+Languages.CS(z): "R, MATLAB, Mathematica, LaTeX, MIPS Assembly"
 ——————
-Databases: "MySQL, PostgreSQL, MariaDB, MongoDB"
-Vector Databases: "Milvus, Pinecone, Weaviate"
+Databases: "MySQL, PostgreSQL, MongoDB, MariaDB"
+Vector Databases: "Pinecone, Milvus"
 ——————
 TechStack(i): "Spring Core/Boot, Selenium, Thymeleaf, Hibernate"
-TechStack(j): "JUnit, Log4j, Maven, React, Vite, Next, Tailwind, Vue"
-TechStack(k): "Tableau, Seaborn, Power Bi, D3.js, ArcGIS, NX Siemens"
+TechStack(j): "Docker, Maven, Guava, JUnit, Log4j, JMARS"
+TechStack(k): "Node.js, React, Vite, Tailwind, Vue, Siemens NX"
+TechStack(l): "OpenCV, TensorFlow, PyTorch, Seaborn, Xarray"
 ——————
 Interests:
-"Software engineering, high performance computing, parallel computing"       
+"High performance/parallel/concurrent/scientific computing"       
 ```
 
 <p align=left>
