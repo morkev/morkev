@@ -13,7 +13,7 @@ Vector Databases: "Pinecone, Milvus"
 ——————
 TechStack(i): "Spring Core/Boot, Selenium, Thymeleaf, Hibernate"
 TechStack(j): "Docker, Maven, Guava, JUnit, Log4j, JMARS"
-TechStack(k): "Node.js, React, Vite, Tailwind, Vue, Siemens NX"
+TechStack(k): "Node.js, React, Vue, Shell, GDAL, Siemens NX"
 TechStack(l): "OpenCV, TensorFlow, PyTorch, Seaborn, Xarray"
 ——————
 Interests:
