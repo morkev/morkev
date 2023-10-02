@@ -1,6 +1,6 @@
 ```python
 ——————
-College: "Utah –> California"
+University: "Arizona State University"
 ——————
 Uptime: "22 years, 3 months, 28 days"
 ——————
@@ -14,7 +14,7 @@ Vector Databases: "Pinecone, Milvus"
 TechStack(i): "Spring Core/Boot, Selenium, Thymeleaf, Hibernate"
 TechStack(j): "Docker, Maven, Guava, JUnit, Log4j, JMARS"
 TechStack(k): "Node.js, React, Vue, Shell, GDAL, Siemens NX"
-TechStack(l): "OpenCV, TensorFlow, PyTorch, Seaborn, Xarray"
+TechStack(l): "OpenCV, TensorFlow, PyTorch, Seaborn, Oracle CI"
 ——————
 Interests:
 "High performance/parallel/concurrent/scientific computing"       
