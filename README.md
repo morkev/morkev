@@ -2,7 +2,7 @@
 ——————
 University: "Arizona State University"
 ——————
-Uptime: "22 years, 5 months, 18 days"
+Uptime: "22 years, 5 months, 19 days"
 ——————
 Languages.CS(x): "Java, C++, SQL, Python, JavaScript"
 Languages.CS(y): "C#, C, TypeScript, PHP, HTML, CSS"
