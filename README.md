@@ -4,20 +4,10 @@ University: "Arizona State University"
 ——————
 Uptime: "22 years, 8 months, 20 days"
 ——————
-Languages.CS(x): "Java, C++, SQL, Python, JavaScript"
-Languages.CS(y): "C#, C, TypeScript, PHP, HTML, CSS"
-Languages.CS(z): "R, MATLAB, Mathematica, LaTeX, MIPS Assembly"
-——————
-Databases: "MySQL, PostgreSQL, MongoDB, MariaDB"
-Vector Databases: "Pinecone, Milvus"
-——————
-TechStack(i): "Spring Core/Boot, Selenium, Thymeleaf, Hibernate"
-TechStack(j): "Docker, Maven, Guava, JUnit, Log4j, JMARS"
-TechStack(k): "Node.js, React, Vue, Shell, GDAL, Siemens NX"
-TechStack(l): "OpenCV, TensorFlow, PyTorch, Seaborn, Oracle CI"
+Fav.Languages(x): "Java, Python, Golang, C#, C++, SQL"
 ——————
 Interests:
-"High performance/parallel/concurrent/scientific computing"       
+"High performance/parallel/concurrent computing"       
 ```
 
 <p align=left>
