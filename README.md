@@ -2,7 +2,7 @@
 ——————
 University: "Arizona State University"
 ——————
-Uptime: "22 years, 8 months, 22 days"
+Uptime: "22 years, 8 months, 23 days"
 ——————
 Fav.Languages(x): "Java, Python, Golang, C#, C++, SQL"
 ——————
