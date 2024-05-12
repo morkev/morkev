@@ -1,34 +1,35 @@
-name: README build
+# SILENCED SINCE THE CURRENT README DOES NOT USE THIS SCRIPT
+# name: README build
 
-on:
-  push:
-    branches:
-      - main
-  schedule:
-    - cron: '30 1 * * *'
+# on:
+#   push:
+#     branches:
+#       - main
+#   schedule:
+#     - cron: '30 1 * * *'
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
+# jobs:
+#   build:
+#     runs-on: ubuntu-latest
     
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
-        with:
-          fetch-depth: 1
-      - name: Get Python 3.8                               
-        uses: actions/setup-python@v2                               
-        with:                                 
-          python-version: '3.8'
-      - name: Get dateutil
-        run: pip install python-dateutil
-      - name: Update README file
-        run: python today.py
-      - name: Commit
-        run: |-
-          git add .
-          git diff
-          git config --global user.email "github-actions-bot@morkev.github.io"
-          git config --global user.name "morkev/GitHub-Actions-Bot"
-          git commit -m "I am a bot keeping this README updated" -a || echo "Fuck, something went wrong"
-          git push
+#     steps:
+#       - name: Checkout repository
+#         uses: actions/checkout@v2
+#         with:
+#           fetch-depth: 1
+#       - name: Get Python 3.8                               
+#         uses: actions/setup-python@v2                               
+#         with:                                 
+#           python-version: '3.8'
+#       - name: Get dateutil
+#         run: pip install python-dateutil
+#       - name: Update README file
+#         run: python today.py
+#       - name: Commit
+#         run: |-
+#           git add .
+#           git diff
+#           git config --global user.email "github-actions-bot@morkev.github.io"
+#           git config --global user.name "morkev/GitHub-Actions-Bot"
+#           git commit -m "I am a bot keeping this README updated" -a || echo "Fuck, something went wrong"
+#           git push
