@@ -12,7 +12,12 @@
 [ |                   \_|/__\_|_/         \__\       | ]
 [ |    ^.^     .^ ^   (o):(o):(o)     ^ ^.       .^  | ]
 [ /~------------------------------------------------~\ ]
-[""""""""""""""""""""""""""""""""""""""""""""""""""""""]      
+[""""""""""""""""""""""""""""""""""""""""""""""""""""""]
+```
+
+```
+My most significant work is in private GitLab repositories owned by
+my employers. I code to get paid, and these are learning projects.
 ```
 
 <p align=left>
