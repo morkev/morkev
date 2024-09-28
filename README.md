@@ -1,7 +1,7 @@
 ```c
 [""""""""""""""""""""""""""""""""""""""""""""""""""""""]
 [ \~-------------------KEVIN MORA-------------------~/ ]
-[ |  "High performance / parallel / cloud computing" | ]
+[ |           "Software Engineering / HPC"           | ]
 [ |                                                  | ]
 [ |              __                        _         | ]
 [ |             /\ `\_                    /\`\_      | ]
@@ -14,7 +14,7 @@
 [ /~------------------------------------------------~\ ]
 [""""""""""""""""""""""""""""""""""""""""""""""""""""""]
 
-My most significant work is in private GitLab repositories :)
+My most significant work is in private GitLab repositories
 ```
 
 <!--
