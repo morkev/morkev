@@ -13,8 +13,14 @@
 [ |    ^.^     .^ ^   (o):(o):(o)     ^ ^.       .^  | ]
 [ /~------------------------------------------------~\ ]
 [""""""""""""""""""""""""""""""""""""""""""""""""""""""]
+```
 
-My most significant work is in private GitLab repositories
+```r
+- Current job: "Research And Development Intern (AI/ML) at ORNL"
+- Previous job: "Software Engineer Intern at NASA"
+
+- About my contributions:
+"My most significant work is in private GitLab repositories"
 ```
 
 <!--
