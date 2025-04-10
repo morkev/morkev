@@ -1,7 +1,7 @@
 ```c
 [""""""""""""""""""""""""""""""""""""""""""""""""""""""]
 [ \~-------------------KEVIN MORA-------------------~/ ]
-[ |        "HPC / Software / Data Engineering"       | ]
+[ |          "HPC / Data Engineering / SWE"          | ]
 [ |                                                  | ]
 [ |              __                        _         | ]
 [ |             /\ `\_                    /\`\_      | ]
@@ -28,4 +28,3 @@
 <p align=left>
 <img align='left' src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=morkev&layout=compact&theme=ayu-mirage&hide_border=true&langs_count=16' />
 </p>
--->
