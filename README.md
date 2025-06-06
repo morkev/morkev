@@ -1,7 +1,7 @@
 ```c
 [""""""""""""""""""""""""""""""""""""""""""""""""""""""]
 [ \~-------------------KEVIN MORA-------------------~/ ]
-[ |          "HPC / Data Engineering / SWE"          | ]
+[ |          "SWE / Data Engineering / HPC"          | ]
 [ |                                                  | ]
 [ |              __                        _         | ]
 [ |             /\ `\_                    /\`\_      | ]
@@ -16,7 +16,7 @@
 ```
 
 ```r
-- Current job: "Research And Development Intern (AI/ML) at ORNL"
+- Current job: "Software Engineer Intern at ORNL"
 - Previous job: "Software Engineer Intern at NASA"
 ```
 
