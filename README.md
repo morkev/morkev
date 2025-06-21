@@ -1,7 +1,7 @@
 ```c
 [""""""""""""""""""""""""""""""""""""""""""""""""""""""]
 [ \~-------------------KEVIN MORA-------------------~/ ]
-[ |          "SWE / Data Engineering / HPC"          | ]
+[ |         "AI/ML / Data Engineering / SWE"         | ]
 [ |                                                  | ]
 [ |              __                        _         | ]
 [ |             /\ `\_                    /\`\_      | ]
@@ -13,11 +13,6 @@
 [ |    ^.^     .^ ^   (o):(o):(o)     ^ ^.       .^  | ]
 [ /~------------------------------------------------~\ ]
 [""""""""""""""""""""""""""""""""""""""""""""""""""""""]
-```
-
-```r
-- Current job: "Software Engineer Intern at ORNL"
-- Previous job: "Software Engineer Intern at NASA"
 ```
 
 <a href="https://xkcd.com/1831/">
