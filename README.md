@@ -1,4 +1,4 @@
-```cs
+```
 ["""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""]
 [ /~-------------------------------------------------------------------~\ ]
 [ |                                  |                                  | ]
@@ -22,7 +22,12 @@
   <img src="https://imgs.xkcd.com/comics/here_to_help.png" alt="Here to Help" width="600">
 </a>
 
-<!-- V22 - WE ALSO BUILD ITS ENGINE AT RYCEY
+## Publications
+
+[![U.S. Department of Energy](https://img.shields.io/badge/10.11578/dc.20260915.1-006633?style=for-the-badge&logo=doi&logoColor=white&label=U.S.%20Department%20of%20Energy)](https://doi.org/10.11578/dc.20260915.1)
+[![ASME MSEC 2026](https://img.shields.io/badge/10.1115/MSEC2026--182661-00529B?style=for-the-badge&logo=doi&logoColor=white&label=ASME%20MSEC)](https://doi.org/10.1115/MSEC2026-182661)
+
+<!--
              ..                                      ..
   <==========||==========>                <==========||==========>
              ||                                      ||
